@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CleanBrowse AI</string>
+    <string name="shield_active_title">Shield Active • Hybrid AI</string>
+    <string name="shield_standard_title">Shield Active • Standard Rules</string>
+    <string name="shield_paused_title">Protection Paused</string>
+    <string name="blocking_on">Blocking: ON</string>
+    <string name="blocking_off">Blocking: OFF</string>
+    <string name="nav_browser">Browser</string>
+    <string name="nav_scanner">AI Scanner</string>
+    <string name="nav_rules">Rule Studio</string>
+    <string name="nav_dashboard">Telemetry</string>
+    <string name="url_hint">Enter URL or search clean web…</string>
+    <string name="load_test_sandbox">Ad Test Sandbox</string>
+    <string name="inject_dynamic_ad">Inject Stealth Ad</string>
+    <string name="capture_page_ai">Scan Page with AI Vision</string>
+    <string name="pick_screenshot">Pick Screenshot</string>
+    <string name="generate_sample_ad_bitmap">Load Sample Ad Page Image</string>
+    <string name="ai_rule_prompt_hint">Describe an ad, tracker domain, or paste HTML (e.g. Block sponsored widgets from revcontent.com and hide .native-promo containers)…</string>
+    <string name="generate_rule_cta">Generate with AI</string>
+    <string name="export_mv3_kit">Manifest V3 Extension Kit</string>
+    <string name="privacy_guarantee_badge">100% On-Device Rule Engine • Zero Telemetry</string>
+</resources>

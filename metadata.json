@@ -1,0 +1,6 @@
+{
+  "name": "CleanBrowse AI",
+  "description": "Hybrid AI ad-blocking browser, DOM feature scanner, visual screenshot ad detector, and Manifest V3 filter rule studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
